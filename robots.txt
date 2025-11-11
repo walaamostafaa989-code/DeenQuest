@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://deenquest.pages.dev/sitemap.xml
